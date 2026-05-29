@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://penniesmakeapound.com">Portfolio ↗</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thearjuna/">LinkedIn ↗</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:arjunak@outlook.com?subject=May%20I%20request%20your%20CV&body=Hi%20Arjuna%2C%0A%0AThis%20is%20%5Byour%20name%5D%20from%20%5Bcompany%5D%20requesting%20your%20CV.%0A%0AKind%20regards%2C%0A%5Byour%20name%5D">Request CV ↗</a>
+  <a href="https://penniesmakeapound.com"><img src="https://img.shields.io/badge/Portfolio_↗-white?style=flat-square&labelColor=white&color=white" alt="Portfolio ↗"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thearjuna/"><img src="https://img.shields.io/badge/LinkedIn_↗-white?style=flat-square&labelColor=white&color=white" alt="LinkedIn ↗"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:arjunak@outlook.com?subject=May%20I%20request%20your%20CV&body=Hi%20Arjuna%2C%0A%0AThis%20is%20%5Byour%20name%5D%20from%20%5Bcompany%5D%20requesting%20your%20CV.%0A%0AKind%20regards%2C%0A%5Byour%20name%5D"><img src="https://img.shields.io/badge/Request_CV_↗-white?style=flat-square&labelColor=white&color=white" alt="Request CV ↗"/></a>
 </p>
 
 
