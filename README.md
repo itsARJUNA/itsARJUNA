@@ -1,5 +1,5 @@
 <a href="https://penniesmakeapound.com">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Hey%2C+I'm+Arjuna+%F0%9F%91%8B;Systems+Engineer+%7C+Cloud+%7C+Builder" alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Bonjour%2C+I'm+Arjuna;Systems+Engineer+%7C+Cloud+%7C+Builder" alt="Typing SVG" />
 </a>
 
 <p align="center">
