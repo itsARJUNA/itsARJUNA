@@ -15,11 +15,11 @@
 </p>
 
 
-### Toolbox
+### My Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,py,regex,github,git,mysql,html,css,md,windows,linux,grafana)](https://skillicons.dev)
 
-### Learning
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+### Actively Learning
+[![Learning](https://skillicons.dev/icons?i=aws,py,linux)](https://skillicons.dev)
 ---
 
 ### GitHub Stats
