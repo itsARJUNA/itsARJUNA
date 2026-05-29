@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://penniesmakeapound.com">
-    <img src="https://img.shields.io/badge/-Portfolio-0B3D2E?style=flat-square&logo=googlechrome&logoColor=4eca8b" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-0B3D2E?style=flat-square" alt="My website/Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/thearjuna/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0B3D2E?style=flat-square&logo=linkedin&logoColor=4eca8b" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0B3D2E?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:arjunak@outlook.com?subject=May%20I%20request%20your%20CV&body=Hi%20Arjuna%2C%0A%0AThis%20is%20%5Byour%20name%5D%20from%20%5Bcompany%5D%20requesting%20your%20CV.%0A%0AKind%20regards%2C%0A%5Byour%20name%5D">
     <img src="https://img.shields.io/badge/-Request_CV-0B3D2E?style=flat-square&logo=gmail&logoColor=4eca8b" alt="Request CV"/>
