@@ -1,5 +1,5 @@
 <a href="https://penniesmakeapound.com">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=40&duration=3000&pause=86400000&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Bonjour%2C+I'm+Arjuna" alt="Bonjour, I'm Arjuna" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=40&duration=1&pause=86400000&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Bonjour%2C+I'm+Arjuna" alt="Bonjour, I'm Arjuna" />
 </a>
 
 <p align="center">
